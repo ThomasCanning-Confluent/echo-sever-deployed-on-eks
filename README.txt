@@ -1,0 +1,2 @@
+Based on hashicorp.com eks tutorial at https://developer.hashicorp.com/terraform/tutorials/kubernetes/eks
+Then deploying my go echo-server container at tcanning/echo-server based on the tutorial at https://clouddevs.com/go/applications-on-kubernetes/

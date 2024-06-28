@@ -1,5 +1,5 @@
-# Copyright (c) HashiCorp, Inc.
-# SPDX-License-Identifier: MPL-2.0
+#An output file is used to define the output variables that are returned by the module
+#These variables can be used by other modules, resources, and the command line
 
 output "cluster_endpoint" {
   description = "Endpoint for EKS control plane"
