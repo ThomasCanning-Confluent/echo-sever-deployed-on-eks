@@ -1,7 +1,7 @@
 apiVersion: v1
 kind: Service
 metadata:
-  name: echo-server-service
+  name: echo-server-service-2
 spec:
   selector:
     app: echo-server
